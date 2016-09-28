@@ -2,7 +2,7 @@
 * Custom 404 Template for Bootstrap-based WordPress themes
 * Designer: Alexander P. Floyd Marshall, Soren LLC
 * url: http://soren.tech
-* version: 0.3
+* version: 0.4
 * contact: joysandconcerns@soren.tech
 * contribute by forking and issuing a pull-request on git hub
 * installation and use: add a submodule to your theme repository, then use get_template_part ('404/404'); wherever you need to include this file in your theme
