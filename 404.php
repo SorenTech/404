@@ -8,7 +8,7 @@
 	  </div><!-- 404-logo -->
      </div><!-- 404-logo-row -->
      <div class="row 404-text-row">
-     	  <div class="col-md-4 404-explanation">
+     	  <div class="col-sm-4 col-xs-offset-2 404-explanation">
 	       <h1>Oops!</h1>
 	       <p>We can't seem to find the page you requested.</p>
 	       <p>Sorry to leave you swimming!</p>
