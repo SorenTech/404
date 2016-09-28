@@ -19,7 +19,7 @@
 	           <li>Return <a title="home" href="<?php echo esc_url( home_url( '/' ) ); ?>" role="home">home</a></li>
 		   <li>Use the search bar above to try to find your page</li>
 		   <li>Check your spelling to make sure you are searching for the right thing</li>
-		   <li>Email us to <a title="Soren feedback email" href="mailto:joysandconcerns@soren.tech">report an issue</a></li>
+		   <li>Email <a title="Soren LLC" href="http://soren.tech">S&oslash;ren</a> to <a title="Soren feedback email" href="mailto:joysandconcerns@soren.tech">report an issue</a></li>
 		   <li>Take a snack break</li>
 	        </ul>
 	  </div><!-- 404-explanation -->
