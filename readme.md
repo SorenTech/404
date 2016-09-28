@@ -1,7 +1,7 @@
 **Custom 404 Template for Bootstrap-based WordPress themes**
 Designer: Alexander P. Floyd Marshall, Soren LLC
 url: http://soren.tech
-version: 0.5
+version: 0.6
 contact: joysandconcerns@soren.tech
 
 Contributions welcome! Fork us and send pull requests.
